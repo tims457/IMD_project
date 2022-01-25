@@ -1,2 +1,3 @@
 # IMD_project
-Interplanetary mission design final project
+Final project for interplanetary mission design taken in spring 2019.
+VEEMJ trajectory to Saturn.
